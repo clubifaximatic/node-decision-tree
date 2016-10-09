@@ -1,0 +1,25 @@
+{
+  "name": "node-decision-tree",
+  "version": "0.1.0",
+  "description": "Machine Learning. Decision tree implementation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubifaximatic/node-decision-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clubifaximatic/node-decision-tree/issues"
+  },
+  "homepage": "https://github.com/clubifaximatic/node-decision-tree#readme",
+  "dependencies": {
+    "lodash": "^4.16.2"
+  }
+}
