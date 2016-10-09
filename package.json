@@ -1,6 +1,6 @@
 {
   "name": "node-decision-tree",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Machine Learning. Decision tree implementation",
   "main": "index.js",
   "directories": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/clubifaximatic/node-decision-tree#readme",
   "dependencies": {
+    "debug": "^2.2.0",
     "lodash": "^4.16.2"
   }
 }
